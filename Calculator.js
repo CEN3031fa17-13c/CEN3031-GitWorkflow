@@ -22,6 +22,7 @@ function divide(){
 	var v2=parseInt(document.getElementById("input2").value);
 	console.log( "hello");
 	alert("Result= " + (v1/v2).toString());
+	console.log("Hellossssss");
 	
 	
 }
